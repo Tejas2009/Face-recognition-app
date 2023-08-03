@@ -1,3 +1,4 @@
+https//teachablemachine.withgoogle.com/models/[...]
 Webcam.set({
     width:350,
     height:300,
@@ -26,4 +27,4 @@ function check()
     classifier.classify(img, gotResult);
 }  
 
-https://teachablemachine.withgoogle.com/models/[...]
+
